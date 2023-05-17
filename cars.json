@@ -1,0 +1,42 @@
+[
+{
+  "id":"1",
+  "model":"Star",
+  "brand":"Toyota",
+  "price":"50.000,00",
+  "battery":"200",
+  "power":"300",
+  "recharge":"60 min",
+  "urlPhoto":"https://raw.githubusercontent.com/brayanlearn/cars-api/main/src/car_1.png"
+},
+  {
+  "id":"2",
+  "model":"XS",
+  "brand":"Chevrolet",
+  "price":"150.000,00",
+  "battery":"400",
+  "power":"300",
+  "recharge":"10 min",
+  "urlPhoto":"https://raw.githubusercontent.com/brayanlearn/cars-api/main/src/car_2.png"
+},
+  {
+  "id":"3",
+  "model":"Falcon",
+  "brand":"WV",
+  "price":"250.000,00",
+  "battery":"100",
+  "power":"400",
+  "recharge":"30 min",
+  "urlPhoto":"https://raw.githubusercontent.com/brayanlearn/cars-api/main/src/car_3.png"
+},
+  {
+  "id":"4",
+  "model":"New Eletric",
+  "brand":"Renault",
+  "price":"100.000,00",
+  "battery":"500",
+  "power":"500",
+  "recharge":"20 min",
+  "urlPhoto":"https://raw.githubusercontent.com/brayanlearn/cars-api/main/src/car_4.png"
+}
+]
